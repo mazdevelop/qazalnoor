@@ -1,0 +1,19 @@
+{
+  "welcome": "Welcome to our website",
+  "home": "Home",
+  "products": "Products",
+  "articles": "Articles",
+  "about": "About Us",
+  "contact": "Contact",
+  "featuredProducts": "Featured Products",
+  "latestArticles": "Latest Articles",
+  "readMore": "Read More",
+  "buyNow": "Buy Now",
+  "language": "Language",
+  "english": "English",
+  "persian": "Persian",
+  "dashboard": "Dashboard",
+  "login": "Login",
+  "logout": "Logout",
+  "profile": "Profile"
+}
